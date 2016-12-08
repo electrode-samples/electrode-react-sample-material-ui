@@ -1,5 +1,9 @@
 # electrode-react-sample-material-ui
 
+# Deprecated
+
+This repo has been moved to https://github.com/electrode-io/electrode#sample-universal-react-node-with-material-ui
+
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
 > Electrode Universal React Sample App with [material-ui] components
