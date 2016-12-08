@@ -2,7 +2,7 @@
 
 # Deprecated
 
-This repo has been moved to https://github.com/electrode-io/electrode#sample-universal-react-node-with-material-ui
+This repo has been moved [here](https://github.com/electrode-io/electrode/tree/c31adbfb247da790b0773f1b16c1d73e9b2a2538/samples/universal-material-ui)
 
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
